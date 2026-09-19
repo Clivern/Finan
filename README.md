@@ -1,4 +1,4 @@
-# finan
+# Finan
 
 Train language models from scratch in PyTorch.
 
